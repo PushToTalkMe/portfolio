@@ -7,7 +7,7 @@
 
 Обзор приложения: https://www.youtube.com/watch?v=zSvlezL1NBU
 
-Ссылка на приложение: https://pushtotalkme.github.io/KikiTime/
+[Ссылка на приложение:](https://pushtotalkme.github.io/KikiTime/)
 
 > [!NOTE]
 > Если вы пользователь из России, вам необходимо включить VPN для корректного отображения фильмов.
