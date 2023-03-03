@@ -6,7 +6,6 @@
 Приложение для поиска кино.
 
 [Обзор приложения](https://www.youtube.com/watch?v=zSvlezL1NBU)
-
 [Приложение](https://pushtotalkme.github.io/KikiTime/)
 
 > [!NOTE]
