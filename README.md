@@ -9,9 +9,9 @@
 
 [Приложение](https://pushtotalkme.github.io/KikiTime/) - если вы пользователь из России, вам необходимо включить VPN для корректного отображения фильмов.
 
-[Код приложения](https://github.com/PushToTalkMe/KikiTime/tree/KikiTime_v1.5)
+[Код приложения (MUi)](https://github.com/PushToTalkMe/KikiTime/tree/KikiTime_v1.5)
 
-[Код старого приложения](https://github.com/PushToTalkMe/KikiTime/tree/KikiTime_v1.0)
+[Код старого приложения (css)](https://github.com/PushToTalkMe/KikiTime/tree/KikiTime_v1.0)
 
 В нем были реализованы следующие функции:
   - Авторизация
