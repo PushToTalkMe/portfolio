@@ -5,7 +5,7 @@
 
 Приложение для поиска кино.
 
-[Обзор приложения](https://www.youtube.com/watch?v=zSvlezL1NBU)
+[Видеообзор приложения](https://www.youtube.com/watch?v=zSvlezL1NBU)
 
 [Приложение](https://pushtotalkme.github.io/KikiTime/) - если вы пользователь из России, вам необходимо включить VPN для корректного отображения фильмов.
 
