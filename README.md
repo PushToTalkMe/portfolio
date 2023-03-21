@@ -24,7 +24,7 @@
 
 --------------------------------------
 
-## Прогноз погоды (React+ReduxThunk, Typescript, Javascript)
+## Weather (React+ReduxThunk, Typescript, Javascript)
 
 Приложение для прогнозирования погоды в любой точке мира.
 
